@@ -1,8 +1,5 @@
 # SemReps-8K
 
-**UPDATE: An updated version of this dataset including all betas can be found here: https://openneuro.org/datasets/ds007272**
-
-
 This dataset contains fMRI recordings of 6 subjects viewing more than 8,000 stimuli in the form of images of naturalistic scenes and captions of such images. Additionally, there are conditions during which the subjects were performing mental imagery of visual scenes.
 
 ## Experiment details
@@ -32,8 +29,6 @@ The stimuli folder contains references to all images used in the study, alongsid
 
 The `derivatives/betas` directory contains preprocessed `betas` for each training, test and imagery stimulus for each subject in their respective subject-specific space (volume). For details on how these were extracted please refer to the paper. In `derivatives/betas/surface` we additionally provide surface-projections onto fsaverage of these betas.
 
-NB: The betas are not part of this version, they will be shared in an updated version of the dataset (https://openneuro.org/datasets/ds007272).
-
 ## Citation
 
 If you make use of the SemReps-8K dataset, please cite the corresponding paper:
@@ -47,5 +42,4 @@ https://doi.org/10.7554/eLife.107933
 This research was funded by grants from the French Agence Nationale de la Recherche (ANR: AI-REPS grant number ANR-18-CE37-0007-01 and ANITI grant number ANR-19-PI3A-0004) as well as the European Union (ERC Advanced grant GLoW, 101096017). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 We thank the Inserm/UPS UMR1214 Technical Platform for their help in setting up and for the acquisitions of the MRI sequences.
-
 
