@@ -43,3 +43,7 @@ This research was funded by grants from the French Agence Nationale de la Recher
 
 We thank the Inserm/UPS UMR1214 Technical Platform for their help in setting up and for the acquisitions of the MRI sequences.
 
+
+## Attention modulation and imagery trials
+
+Additional fMRI data for attention modulation and imagery trials from the same subjects can be found here: [https://openneuro.org/datasets/ds007512](https://openneuro.org/datasets/ds007512).
