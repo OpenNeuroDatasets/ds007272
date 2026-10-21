@@ -4,7 +4,7 @@ This dataset contains fMRI recordings of 6 subjects viewing more than 8,000 stim
 
 ## Experiment details
 
-Six subjects (2 female, age between 20 and 50 years, all right-handed and fluent English speakers) participated in the experiment after providing informed consent. The study was performed in accordance with French national ethical regulations (Comité de Protection des Personnes, ID 2019-A01920-57). 
+Six subjects (2 female and 4 male, age between 20 and 50 years, all right-handed and fluent English speakers) participated in the experiment after providing informed consent. The study was performed in accordance with French national ethical regulations (Comité de Protection des Personnes, ID 2019-A01920-57). 
 We collected functional MRI data using a 3T Philips ACHIEVA scanner (gradient echo pulse sequence, TR=2s, TE=30ms, 46 slices with a 32-channel head coil, slice thickness=3mm with 0.2mm gap, in-plane voxel dimensions 3×3mm). At the start of each session, we further acquired high-resolution anatomical images for each subject (voxel size=1mm^3, TR=8.13ms, TE=3.74ms, 170 sagittal slices).
 
 Scanning was spanned over 10 sessions (except for sub-01: 11 sessions), each consisting of 13 to 16 runs during which the subjects were presented with 86 stimuli. Each run started and ended with an 8s fixation period.
